@@ -1,1 +1,1 @@
-# Kinect-PlayFit
+# Kinect PlayFit
